@@ -31,5 +31,6 @@ int main() {
     // Code never reaches here
     return 0;
 }
+```
  # Create FUnction
  Hello world!
